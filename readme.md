@@ -83,7 +83,3 @@ Contribuições são sempre bem-vindas! Se você tem alguma sugestão para melho
 ## Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Este README é um ponto de partida para o seu projeto. Sinta-se à vontade para personalizá-lo conforme as necessidades do seu projeto. Boa sorte com o NextGen JobFinder!
