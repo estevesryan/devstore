@@ -44,7 +44,6 @@ O devstore é um projeto pessoal desenvolvido utilizando o Next.js 14, concebido
 - Node.js (versão recomendada: 16.x ou superior)
 - npm ou yarn
 - Uma conta na Vercel (para deploy)
-- Uma conta no Planetscale (para o banco de dados)
 
 ### Passos para Execução
 
