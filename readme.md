@@ -26,6 +26,8 @@ O devstore é um projeto pessoal desenvolvido utilizando o Next.js 14, concebido
 
 - **Carrinho de Compras e Checkout**: Os usuários podem adicionar produtos ao carrinho e prosseguir para o checkout, onde podem revisar seus pedidos, escolher opções de envio, aplicar cupons de desconto e concluir a compra de forma segura.
 
+- **Skeleton Screens Durante o Carregamento**: Implementamos Skeleton Screens em todas as páginas e componentes relevantes do e-commerce. Enquanto os dados estão sendo carregados, os usuários visualizam uma representação visual simplificada e estilizada dos elementos da página, indicando que o conteúdo está sendo carregado.
+
 - **Alertas e Notificações**: Os usuários podem se inscrever para receber notificações sobre novos produtos, ofertas especiais ou disponibilidade de itens anteriormente fora de estoque, garantindo que não percam nenhuma oportunidade.
 
 
